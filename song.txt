@@ -2,6 +2,3 @@ first
 second
 third
 forth
-
-six
-seven
